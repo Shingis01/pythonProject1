@@ -1,6 +1,6 @@
 
 def main():
-    x, y = 300, 400
+    x, y = 300, 450
     width, height = 200, 300
 
     draw_house(x, y, width, height)
